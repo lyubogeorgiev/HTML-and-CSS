@@ -1,0 +1,15 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/css/all.min.css";
+
+.button {
+    border: 1px solid black;
+    border-radius: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    padding: 12px;
+    margin: 0 12px 0 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
